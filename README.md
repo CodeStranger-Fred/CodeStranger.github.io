@@ -5,7 +5,7 @@
 
 When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyl cn only read files in the folders
 `_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of opins of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the comman
+from the theme's gem. If you have ever installed this theme gem, you can use the command
 `bundle info --path jekyll-theme-chirpy` to locate these files.
 
 The Jekyll team claims that this is to leave the ball in the user’s court, but this also esults in users not being
